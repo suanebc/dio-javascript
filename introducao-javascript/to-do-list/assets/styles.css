@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin+Dark&display=swap');
+
+body {
+    background-color: #FFFAFA;
+    color: #363636;
+    margin: 2% 20%;
+    font-family: 'Palanquin Dark';
+    
+}
+button{
+    background-color: #DDA0DD;
+    border: #FFF0F5;
+    border-radius: 0px 8px 8px 0px;
+}
+#tarefa {
+    width: 75%;
+}
+.add_tarefa {
+    display: flex;
+    align-content: center;
+}
+.minhas_tarefas{
+    background-color: #FFF0F5;
+    color: #000000;
+    margin: 3% 0;
+    border: 2px solid#FFE4E1;
+    border-radius: 8px;
+    padding: 16px;
+}
+.concluida {
+    text-decoration: line-through;
+}

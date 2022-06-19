@@ -1,0 +1,22 @@
+body {
+    background-color: #00BFFF;
+    color: #4F4F4F;
+    text-align: center;
+}
+button {
+    border-radius: 5px; 
+    background: #FFB6C1;
+   
+    
+}
+.contents {
+    background-color: #DCDCDC;
+    margin: 5% 15%;
+    padding: 3%;
+    border-radius: 3%;
+    
+}
+.contador {
+    font-size: 24px;
+    margin: 16px;
+}

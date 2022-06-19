@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #FDF5E6;
+    font-size: 16px;
+    text-align: center;
+    color: #363636;
+
+}
+button{
+    width: 300px;
+    height: 50px;
+    color: floralwhite;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.divCat {
+    /*display: flex;*/
+    justify-content: center;
+    margin: 8px;
+}
+.imgCat {
+    width: 300px;
+    height: 400px;
+    border-radius: 8px;
+}
