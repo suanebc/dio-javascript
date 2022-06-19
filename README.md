@@ -3,8 +3,8 @@
 
 
 
-## Decola Tech 3a edição - Javascript
-Neste repositório, você encontrará as atividades práticas que realizei durante as aulas do Bootcamp da Digital Innovation One sobre a linguagem Javascript e seus conceitos mais importentes.
+## Decola Tech 3ª edição - Javascript
+Neste repositório, você encontrará as atividades práticas que realizei durante as aulas do Bootcamp da [Digital Innovation One](https://www.dio.me/) sobre a linguagem Javascript e seus conceitos mais importentes.
 
  ``Introdução ao Javascript``
 - to-do-list = Nesse atividade foi desenvolvida uma lista de tarefas com um check-list.
