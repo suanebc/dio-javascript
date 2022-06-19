@@ -7,9 +7,9 @@
 Neste repositório, você encontrará as atividades práticas que realizei durante as aulas do Bootcamp da [Digital Innovation One](https://www.dio.me/) sobre a linguagem Javascript e seus conceitos mais importentes.
 
  ``Introdução ao Javascript``
-- to-do-list = Nesse atividade foi desenvolvida uma lista de tarefas com um check-list.
-- contador = Nste atividade foi realizada uma integração de um código Javascript com uma página HTML.
-- verificar-palindromo = Nesta atividade foi realizada uma função que verifia se uma paravra é um palindromo.
+- to-do-list: Nesse atividade foi desenvolvida uma lista de tarefas com um check-list.
+- contador: Nste atividade foi realizada uma integração de um código Javascript com uma página HTML.
+- verificar-palindromo: Nesta atividade foi realizada uma função que verifia se uma paravra é um palindromo.
 
 
  ``Javascript Assíncrono``
