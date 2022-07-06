@@ -17,7 +17,7 @@ Neste repositório, você encontrará as atividades práticas que realizei duran
 Utilizie a API The Cat, 'https://thecatapi.com/', para fazer as chamadas com o método fetch();
 
 
-``Oientação ao Objeto em Javascript``
+``Orientação ao Objeto em Javascript``
 -Aplicando os conceitos de Orientação a Objetos através da criação de diversos tipos de contas bancárias e operações disponíveis em cada uma.
 
 ``Manipulando o DOM``
