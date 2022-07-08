@@ -27,3 +27,5 @@ Utilizie a API The Cat, 'https://thecatapi.com/', para fazer as chamadas com o m
 
 ``Manipulando o DOM``
 - Atividade: Light Mode/Dark Mode, uma pagina Javascript que mudo seu estilo ao clicar no botão.
+![mode](https://user-images.githubusercontent.com/60412898/178021643-75e58d07-7a3f-4b3b-bd2c-cac3a55873b9.png)
+
