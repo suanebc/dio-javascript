@@ -19,8 +19,8 @@ Neste repositório, você encontrará as atividades práticas que realizei duran
 
  ``Javascript Assíncrono``
 - Esta atividade prática do Curso "Javascript Assíncrono", consite na criação de uma página que carrega fotos aleatórias de gatinhos sempre que clicamos em um botão.
-Utilizie a API The Cat, 'https://thecatapi.com/', para fazer as chamadas com o método fetch();
-
+Utilizie a API The Cat, 'https://thecatapi.com/', para fazer as chamadas com o método fetch().
+![the-cat](https://user-images.githubusercontent.com/60412898/178022165-ef5450b5-3500-4205-9c60-be06ebed538c.png)
 
 ``Orientação ao Objeto em Javascript``
 -Aplicando os conceitos de Orientação a Objetos através da criação de diversos tipos de contas bancárias e operações disponíveis em cada uma.
