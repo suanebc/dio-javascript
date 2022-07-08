@@ -8,7 +8,12 @@ Neste repositório, você encontrará as atividades práticas que realizei duran
 
  ``Introdução ao Javascript``
 - to-do-list: Nesse atividade foi desenvolvida uma lista de tarefas com um check-list.
-- contador: Nste atividade foi realizada uma integração de um código Javascript com uma página HTML.
+![to-list](https://user-images.githubusercontent.com/60412898/178020179-34cca581-3162-4531-a9f3-e84f50648b90.png)
+
+- contador: Neste atividade foi realizada uma integração de um código Javascript para conhecer sobre eventos e funções.
+
+![contador](https://user-images.githubusercontent.com/60412898/178020327-0fb97c42-4b22-49a5-9545-a65c7c7bbf52.png)
+
 - verificar-palindromo: Nesta atividade foi realizada uma função que verifia se uma paravra é um palindromo.
 
 
